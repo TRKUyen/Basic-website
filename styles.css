@@ -156,7 +156,7 @@
 .social-icons{
     width: 200px;
     height: 390px;
-    left: -70px;
+    left: -80px;
     top: 150px;
     position: absolute;
     border-top-right-radius: 275px 309px;
@@ -167,6 +167,7 @@
 
 .social-icons ul{
     display: block;
+    width: 10px;
     color: #fff;
     margin-top: 100px;
     margin-left: 100px;
